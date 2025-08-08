@@ -11,4 +11,4 @@ def test_sub_numbers():
     assert sub_numbers(3,3) == 0
     assert sub_numbers(1,1) == 0
     assert sub_numbers(8,2) == 6
-    assert sub_numbers(9,9) == 18
+    assert sub_numbers(9,8) == 1
